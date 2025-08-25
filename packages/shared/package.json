@@ -1,0 +1,11 @@
+{
+  "name": "shared",
+  "version": "1.0.0",
+  "packageManager": "pnpm@10.13.1",
+  "description": "所有公用辅助方法和类型定义",
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "scripts": {
+  }
+}
